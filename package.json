@@ -1,6 +1,6 @@
 {
   "name": "@talha-ashfaq/number-guessing-game",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "This a number guessing game",
   "main": "index.js",
   "type": "module",
